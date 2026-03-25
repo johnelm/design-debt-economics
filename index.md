@@ -4,6 +4,7 @@ author: John Elm
 date: 2009-06-12
 source: The Rational Edge / IBM developerWorks
 ---
+> 📄 [Download PDF version](./design_debt_economics.pdf)
 
 # Design debt economics: A vocabulary for describing the causes, costs, and cures for software maintainability problems
 
