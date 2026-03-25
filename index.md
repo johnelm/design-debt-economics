@@ -11,8 +11,6 @@ source: The Rational Edge / IBM developerWorks
 
 *{{ page.subtitle }}*
 
-> 📄 [Download PDF version](./design-debt.pdf)
-
 *From The Rational Edge:* Code maintainability is vitally important to software quality and is relevant to all development stakeholders. This article explains the impacts of code maintainability problems and how to identify and mitigate them.
 
 **John Elm** was an Advisory Software Engineer in IBM's Global Business Services. At publication time, he had 17 years' experience in information technology as a developer, designer, and team leader, and as a continuous integration and configuration management specialist. He advocates for the technical vitality of organizations and individuals, with a penchant for building organizational capability. John is also a semi-professional musician, and enjoys playing softball and riding his motorcycle in his spare time.
