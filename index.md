@@ -5,8 +5,6 @@ author: John Elm
 date: 2009-06-12
 source: The Rational Edge / IBM developerWorks
 ---
-# {{ page.title }}
-
 *{{ page.subtitle }}*
 
 > 📄 [Download PDF version](./design_debt_economics.pdf)
